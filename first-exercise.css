@@ -1,0 +1,35 @@
+body {
+    padding: 0;
+    margin-top: 5%;
+    font-family: "Roboto", sans-serif;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+table {
+    margin: 0 auto;
+    width: 90%;
+    height: 90%;
+}
+h1 {
+    font-size: 33px;
+    font-weight: 600;
+}
+span{
+    display: inline-block;
+    border-bottom: 10px solid rgb(28, 116, 231);
+}
+h2 {
+    font-size: 20px;
+}
+td {
+    padding: 30px;
+    font-size: 30px;
+}
+p {
+    font-size: 18px;
+    font-weight: lighter;
+}
+i {
+    color: rgb(28, 116, 231);
+}
